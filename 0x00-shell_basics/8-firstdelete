@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp -type f -name "Betty" -exec rm {} \;
+rm /tmp/my_first_directory/betty
