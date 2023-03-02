@@ -1,2 +1,0 @@
-#!/bin/bash
-find /tmp -printf '%s %p\n' |sort -n -r| head
